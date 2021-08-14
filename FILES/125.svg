@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    version="1.1"
+    xml:space="preserve"
+    viewBox="0 0 354.906 354.906"
+    enable-background="new 0 0 354.906 354.906"
+    y="0px"
+    x="0px"
+  >
+<g
+      id="layer1"
+      transform="translate(-531.22 -35.156)"
+    >
+	<g
+        id="g2878"
+        stroke="#000"
+        stroke-width="2"
+        fill="#fff"
+      >
+		<path
+          id="rect5548"
+          d="m587.66 71.438c-11.172 0-20.156 8.984-20.156 20.156v242c0 11.172 8.984 20.156 20.156 20.156h242c11.172 0 20.156-8.984 20.156-20.156v-242c0-11.172-8.984-20.156-20.156-20.156h-242zm80.28 19.031c27.988 49.439 26.454 78.815 24.5 89.219 15.931-54.704 115.93-65.82 116.25-65.5s-11.34 99.677-65.75 115.91c10.422-1.998 39.65-3.609 88.5 23.844 0 0-81.773 58.607-116.59 47.188 4.532 7.409 10.682 13.083 11.438 34.844-14.966-0.28-72.139-31.116-70.156-65.844-10.104 10.941-40.683 44.771-40.219 48.938l-12.312-12.312c4.365 0.5 39.782-31.512 49.125-40.031-34.926 1.784-66.315-55.91-66.688-70.969 21.897 0.893 27.612 7.083 35.094 11.688-11.7-35.11 46.82-116.98 46.82-116.98zm75 139.62c-2.891 0.555-4.406 1.125-4.406 1.125 1.51-0.31 2.96-0.7 4.41-1.13zm-50.5-50.4c-0.417 1.433-0.795 2.851-1.094 4.344-0.01 0 0.55-1.49 1.09-4.34z"
+      />
+		<path
+          id="rect5552"
+          d="m557.41 36.156c-13.965 0-25.188 11.223-25.188 25.188v302.5c0 13.965 11.223 25.219 25.188 25.219h302.5c13.965 0 25.219-11.254 25.219-25.219v-302.5c0-13.965-11.254-25.188-25.219-25.188h-302.5zm15.12 17.625h272.25c12.568 0 22.688 10.119 22.688 22.688v272.25c0 12.568-10.119 22.688-22.688 22.688h-272.25c-12.568 0-22.688-10.119-22.688-22.688v-272.25c0-12.57 10.12-22.689 22.69-22.689z"
+      />
+	</g
+    >
+</g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Autumn Icon Coloring page</dc:title
+        ><dc:date
+          >2013-10-31T17:15:15</dc:date
+        ><dc:description
+          >An Autumn Icon Coloring page</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/187788/autumn-icon-coloring-page-by-pianobrad-187788</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >pianoBrad</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >black and white</rdf:li
+            ><rdf:li
+              >coloring book</rdf:li
+            ><rdf:li
+              >holiday</rdf:li
+            ><rdf:li
+              >icon</rdf:li
+            ><rdf:li
+              >leaf</rdf:li
+            ><rdf:li
+              >seasons</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
