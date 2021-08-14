@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1690 1690" style="enable-background:new 0 0 1690 1690;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCCCCC;}
+</style>
+<g>
+	<polygon class="st0" points="610.7,279.3 279.3,279.3 845,845 	"/>
+	<polygon points="845,45 610.7,279.3 845,845 	"/>
+	<polygon class="st0" points="1079.3,279.3 845,45 845,845 	"/>
+	<polygon points="1410.7,279.3 1079.3,279.3 845,845 	"/>
+	<polygon class="st0" points="1410.7,610.7 1410.7,279.3 845,845 	"/>
+	<polygon points="1645,845 1410.7,610.7 845,845 	"/>
+	<polygon class="st0" points="279.3,610.7 45,845 845,845 	"/>
+	<polygon points="279.3,279.3 279.3,610.7 845,845 	"/>
+	<polygon class="st0" points="279.3,1079.3 279.3,1410.7 845,845 	"/>
+	<polygon points="45,845 279.3,1079.3 845,845 	"/>
+	<polygon points="1410.7,1410.7 1410.7,1079.3 845,845 	"/>
+	<polygon class="st0" points="845,845 1410.7,1079.3 1645,845 	"/>
+	<polygon class="st0" points="1079.3,1410.7 1410.7,1410.7 845,845 	"/>
+	<polygon points="845,1645 1079.3,1410.7 845,845 	"/>
+	<polygon class="st0" points="610.7,1410.7 845,1645 845,845 	"/>
+	<polygon points="279.3,1410.7 610.7,1410.7 845,845 	"/>
+</g>
+</svg>
